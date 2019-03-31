@@ -1,0 +1,1 @@
+- Adding feature : If target string is bigger than one line, we display it on two lines
